@@ -3,6 +3,8 @@ lab_1a.py
 
 The first lab in the BWSI CSS course. To complete this lab, fill out the variable on line 10
 with your name. Then, save the code, add it to the staging area, and commit it to the Git tree.
+
+Update: Robot speed 3m/s
 """
 
 def main():
@@ -14,5 +16,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-this is a line added so it does not work.
