@@ -10,7 +10,7 @@ Change robot speed to 5m/s
 def main():
     print("Hello World!")
 
-    name = "Rener Li" # TODO: Insert your name between the double quotes
+    name = "Rener Li" # DONE: Insert your name between the double quotes
 
     print(f"{name}, Welcome to the CSS course!")
 
